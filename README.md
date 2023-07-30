@@ -1,5 +1,3 @@
-![image](https://github.com/LunariaStardrop/LunariaStardrop/assets/138375427/aaa382a0-9d22-4062-9fcb-686572f2fc34)
-
 # LunariaStardrop - Unity GameDev Developer
 
 ## About Me
