@@ -1,4 +1,4 @@
-# How Toaster Works
+# Interesting facts about me 🥰
 
 A toaster is a common kitchen appliance designed to toast bread, bagels, or other baked goods. This device operates based on the principles of electrical resistance heating. In this informative description, we'll explore the inner workings of a toaster, including its components, electrical properties, and some interesting facts.
 
